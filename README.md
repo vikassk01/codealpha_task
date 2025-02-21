@@ -13,3 +13,6 @@ Here are some key learnings from completing Task 2 of the Hotel Reservation Syst
 ✅ Basic Payment Simulation
 ✅ Control Flow (Loops & Conditionals)
 ✅ Modularity and Code Organization
+
+#output
+![Image](https://github.com/user-attachments/assets/a1a7bd00-3e4b-4dc0-a073-2702969d840c)
